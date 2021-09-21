@@ -1,0 +1,26 @@
+h1 {
+    color: red;
+    text-decoration: underline;
+    background-color: black;
+}
+
+.para_1 {
+    background-color: greenyellow;
+    color: blue;
+    font-size: large;
+    
+}
+
+.list_group {
+    background-color: yellow;
+    font-size: large;
+}
+
+.Hobbies_title {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.back_photo { 
+    background-image: url("https://geographical.co.uk/media/k2/items/cache/159fc61fd0fc009a5ca070136f874aef_XL.jpg");
+    color: white;
+}
